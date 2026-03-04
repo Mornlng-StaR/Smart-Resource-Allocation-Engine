@@ -22,9 +22,9 @@ The engine calculates a **Final Optimization Score** using the following criteri
     * Conditional Logic (`CASE` statements) for penalty calculations.
 
 ## 📂 Repository Structure
-* `scripts/setup_db.sql`: Schema creation for Employees, Skills, and Projects.
+* `scripts/Database_setup.sql`: Schema creation for Employees, Skills, and Projects.
 * `scripts/seed_data.sql`: Includes 10 diverse employee profiles and 7 unique project requirements.
-* `scripts/allocation_engine.sql`: The core optimization query and audit trail.
+* `scripts/Optimization_engine.sql`: The core optimization query and audit trail.
 
 ## 📊 Sample Database Schema
 * **Employees**: ID and Name.
