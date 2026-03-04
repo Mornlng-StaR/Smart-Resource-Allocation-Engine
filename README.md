@@ -1,7 +1,7 @@
 # 🚀 Smart Resource Allocation & Optimization Engine (SQL-Based)
 
 ## 📌 Project Overview
-This project is a high-performance **Resource Management System** built entirely in SQL. It solves the common organizational challenge of "Skill-Gap Analysis" by intelligently matching employees to projects based on their technical proficiency levels.
+This project is a high-performance **Resource Management System** built entirely in SQL. It solves the common organizational challenge of "Skill-Gap Analysis" by intelligently matching employees to projects based on their technical proficiency levels.Designed to simulate real-world workforce allocation systems using pure SQL without external scripting.
 
 Instead of a simple "yes/no" skill match, this engine uses a **Weighted Scoring Model** to rank candidates, accounting for both over-qualification (over-fitting) and under-qualification (under-fitting).
 
